@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "785225829124",
+    "project_id": "virtual-healthcare-89fe3",
+    "storage_bucket": "virtual-healthcare-89fe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785225829124:android:0182a64806406e3ee3de51",
+        "android_client_info": {
+          "package_name": "com.patkim.virtualhealthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785225829124-tgnkufr502f45g2ompoav3k8g1lu8ejm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Baa5zESu2kQTPd0cmsFNiuyfCx_C47k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785225829124-tgnkufr502f45g2ompoav3k8g1lu8ejm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785225829124:android:bfdc1ac723263fc3e3de51",
+        "android_client_info": {
+          "package_name": "com.patkim.virtualheathcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785225829124-tgnkufr502f45g2ompoav3k8g1lu8ejm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Baa5zESu2kQTPd0cmsFNiuyfCx_C47k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785225829124-tgnkufr502f45g2ompoav3k8g1lu8ejm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
